@@ -1,4 +1,6 @@
-# Mosshell v2 QA
+# Mizukaeru v2 QA
+
+Mizukaeru is a leaf-covered frog with magical water gloves. The spritesheet was not changed.
 
 - Atlas: 8 columns × 11 rows, 1536 × 2288, RGBA, sprite version 2.
 - Atlas validation: pass; no errors, warnings, or transparent RGB residue.
